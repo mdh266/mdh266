@@ -10,7 +10,7 @@ For over 17 years I was a competitive athlete in Brazilian Jiu Jitsu, during whi
 
 ### 📫 How to reach me:
 
-![Twitter URL](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmdh266)
+![Twitter URL](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmdh266)
 
 ### ⚡ Fun fact:
 
