@@ -8,10 +8,10 @@ For over 17 years I was a competitive athlete in Brazilian Jiu Jitsu, during whi
 
 <!-- ### 👯 I’m looking to collaborate on  -->
 
-### 📫 How to reach me:
+<!-- ### 📫 How to reach me:
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmdh266)
-
+ -->
 ### ⚡ Fun fact:
 
 For over 17 years I was a competitive athlete in Brazilian Jiu Jitsu, during which I won the World Championships and achieved the rank of 1st degree Black Belt from 2x Pan American, Champion [Professor Dave Ginsberg](https://www.ginsbergacademy.com/). I was fortunate enough to have an amazing coach along with great mentors, sponsors, friends, teammates and students.
