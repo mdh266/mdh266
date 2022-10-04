@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mike
 
-I am a data scientist in New York City who is always trying to learn new things and grow. I earned a PhD in Computational Applied Mathematics from the University of Texas at Austin in 2016 where my research was the intersection of numerical analysis, high performance computing and renewable energy. Nowadays I am focusing on learning cutting edge techniques in big data and machine learning.
+I am a Applied Machine Learning Lead in New York City who is always trying to learn new things and grow. I earned a PhD in Computational Applied Mathematics from the University of Texas at Austin in 2016 where my research was the intersection of numerical analysis, high performance computing and renewable energy. Nowadays I am focusing on learning cutting edge techniques in big data and machine learning.
 
 <!-- ### 🌱 I’m currently learning  -->
 
