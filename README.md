@@ -1,3 +1,4 @@
+## About Me
 I'm a AI/ML Engineer and Data Scientist based in New York City, with 10 years of experience solving complex business and technical problems through data. I specialize in end-to-end development of scalable machine learning solutions, and have worked on and led cross-functional teams with projects spanning supervised/unsupervised learning, AutoML, optimization, entity resolution, natural language processing, geospatial analysis, econometrics, marketing analytics and generative artificial intelligence (GenAI). 
 </br>
 </br>
